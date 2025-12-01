@@ -45,7 +45,10 @@ I love mixing:
 
 ### 🏆 Highlights & Interests
 
-- 🧠 Interested in: cybersecurity, AI/ML, product design & indie hacking  
+### 🏆 Highlights & Interests
+
+- 🧠 Builder & problem-solver — turning ideas into usable products  
+- 🎨 Design-first development with a focus on clean, comfy UI  
 - 🎨 Hobbies: drawing / anime art, world-building, indie games  
 - 🎧 Audio nerd: DJ / production software, good headphones, and tweaking setups
 
@@ -55,6 +58,6 @@ I love mixing:
 
 - 🌐 Studio / portfolio: **https://zonebrozstudios.com**
 - ✉️ Email: **zendyn.reddy@zonebrozstudios.com**
-- 🔗 LinkedIn: _add-your-link-here_
+- 🔗 LinkedIn: **https://www.linkedin.com/in/zendyn-reddy-507aa4365/**
 
-> Always down to chat about pet-tech, productivity tools, design, or indie dev.
+> Always down to chat about pet-tech, productivity tools, design, or any idea.
